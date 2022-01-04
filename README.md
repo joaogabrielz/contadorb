@@ -2,7 +2,7 @@
 [//]: <> ()
 ## # Projeto basico contador com botoes👈
 
-## # Click para ver: <a href=''>Deploy</a> 
+## # Click para ver: <a href='https://joaogabrielz.github.io/contadorb/'>Deploy</a> 
 
 ### # Tecnologias usadas 👈 
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML , 
